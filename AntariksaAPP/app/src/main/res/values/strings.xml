@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AntariksaAPP</string>
+    <string name="planets_name">Nama Planet</string>
+    <string name="planets_detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+</resources>
